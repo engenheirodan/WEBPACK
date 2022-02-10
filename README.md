@@ -12,3 +12,6 @@ dist >> pasta de produção
 
 Comando para instalar o jquery
 >> npm install jquery
+
+para rodar o webpack
+>> npx webpack
