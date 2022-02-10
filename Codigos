@@ -22,7 +22,7 @@ arquivo de configuração
 definir arquivo de configuração
 >> npx webpack --config  webpack.config.js
 
-instala o script em suas dependencias
+instala o script em suas dependencias e atualizar as alterações
 >> npm rum build
 
 instalando css no webpack
@@ -31,4 +31,6 @@ instalando css no webpack
 instalando o SASS no webpack
 >>❯ npm install sass-loader node-sass --save-dev  
 
+comando para deixar o webpack rodando
+>> webpack --config webpack.config.js --watch
 
