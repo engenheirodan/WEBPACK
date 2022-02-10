@@ -24,3 +24,11 @@ definir arquivo de configuração
 
 instala o script em suas dependencias
 >> npm rum build
+
+instalando css no webpack
+>> npm install style-loader css-loader --save-dev
+
+instalando o SASS no webpack
+>>❯ npm install sass-loader node-sass --save-dev  
+
+
