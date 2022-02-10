@@ -11,4 +11,4 @@ src >> pasta de desenvolvimento
 dist >> pasta de produção
 
 Comando para instalar o jquery
->>
+>> npm install jquery
