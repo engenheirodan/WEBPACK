@@ -15,3 +15,12 @@ Comando para instalar o jquery
 
 para rodar o webpack
 >> npx webpack
+
+arquivo de configuração
+>> webpack.config.js
+
+definir arquivo de configuração
+>> npx webpack --config  webpack.config.js
+
+instala o script em suas dependencias
+>> npm rum build
