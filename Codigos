@@ -34,3 +34,7 @@ instalando o SASS no webpack
 comando para deixar o webpack rodando
 >> webpack --config webpack.config.js --watch
 
+comando instalar css, sass e sass
+❯ npm install node-sass sass-loader style-loader css-loader mini-css-extract-plugin --save-dev
+
+
