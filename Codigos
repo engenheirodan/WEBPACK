@@ -4,7 +4,7 @@ Gerenciador de pacotes
 
 Iniciando
 
->> comando criar pacotes na pasta : npm initi -y
+>> comando criar pacotes na pasta : npm init -y
 
 comando para instalar o webpack no linux
 >> escolha atraves do CMD a pasta que vai receber o projeto e digite
